@@ -26,13 +26,13 @@ Ensure you have the following installed:
 
 - Python 3.x
 - Jupyter Notebook
-- Required Python libraries: `tensorflow`, `keras`, `numpy`, `matplotlib`
+- Required Python libraries: `tensorflow`, `torch`, `numpy`, `matplotlib`
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Vanishing_Gradient.git
+   git clone https://github.com/KietAPCS/Vanishing_Gradient.git
    cd Vanishing_Gradient
 
 2. Look at the result in the: `vanishing_gradient.ipynb`
